@@ -21,7 +21,8 @@ As a data analyst for a multinational mobile retailer, I was tasked with uncover
 - Customers aged 34–41 leaned toward OnePlus Nord 4 and EMI options.
 - Pricing sweet spots lie in the $800–$1200 range.
 - Apple's revenue dominance is driven by higher ASP and stronger urban adoption, especially in the 42–49 age group.
-- Google Pixel models gained traction among 18–25 and 50+ segments, a unique dual-demographic appeal.
+- Google Pixel models gained traction among 18–25 and 50+ segments, a unique dual-demographic appeal.![Screenshot 2025-05-22 174512-down](https://github.com/user-attachments/assets/b5953b1c-e4f1-419c-b0bd-060c1e42940c)
+
 - Black and blue were the most commonly sold colors, especially in OnePlus and Samsung models.
 - White and green saw low traction overall, possibly better suited as limited edition SKUs.
 - India contributed most to total revenue (~$7M+).
@@ -31,3 +32,5 @@ As a data analyst for a multinational mobile retailer, I was tasked with uncover
 - Focus marketing efforts on UPI users in online channels, this combo dominates.
 - Introduce targeted offers for specific age-brand-payment segments.
 - Monitor sales trends across price bands to adjust future pricing strategies.
+
+![Screenshot 2025-05-22 174512-down](https://github.com/user-attachments/assets/55ea2b5d-6956-4a5a-ad5f-18b32d0b53b3)
